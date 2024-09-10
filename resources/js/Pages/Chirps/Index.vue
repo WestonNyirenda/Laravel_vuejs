@@ -37,7 +37,7 @@ const form = useForm({
                     :chirp="chirp"
                 />
             </div>
-            
+
         </div>
     </AuthenticatedLayout>
 </template>
